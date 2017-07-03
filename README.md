@@ -35,7 +35,7 @@ Testing my initial approach to GitHub Pages ...
   
 })
 ```
- So, you just have to change the backgroundImg parameter `[1]` to one of your choice, don't forget in JScript language the index starts at 0, so, in the example above, the parameter of backgroundImg is number 1 which is equivalent to the url `https://www.images2.com`,counting from the left, is the second url because it starts counting at 0.
+ So, you just have to change the backgroundImg parameter `[1]` to one of your choice, don't forget in JScript language the index starts at 0, so, in the example above, the parameter of backgroundImg is number 1 which is equivalent to the url `https://www.images2.com`,counting from the left, is the second url because it starts counting at zero (0,1,2,3 etc).
  
 Bye, Mig 
 :+1:  
