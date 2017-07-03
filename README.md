@@ -1,4 +1,4 @@
-# MigPortfolio
+# Mig Portfolio
 Testing my initial approach to GitHub Pages ...
 
 
