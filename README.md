@@ -13,7 +13,7 @@ Testing my initial approach to GitHub Pages ...
  - [x] Finish my changes
  - [x] Push my commits to GitHub
  - [x] Open a pull request
- - [ ] Host my 1st webpage on GitHub
+ - [x] Host my 1st webpage on GitHub
  - [ ] Show my FreeCode Camp exercices solutions
  - [x] Write JS function to change Webpages background
  without having to change URL's on the CSS file
